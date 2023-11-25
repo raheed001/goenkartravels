@@ -10,6 +10,7 @@ function Hero() {
                         <strong className="strong">Hey, we’re Goenkar Travels.</strong> See our
                         thoughts, stories and ideas.
                     </h1>
+                    <h2>Make Your Dreams Come True</h2>
                     <div className="wrapper">
                         <form action="" className="newsletter-form">
                             <input
